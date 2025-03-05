@@ -4,7 +4,8 @@ This project implements a **Fake News Detection Chatbot** using **Retrieval-Augm
 
 ## 🚀 Project Overview
 
-![demo image](image.png)
+![demo image](assets\image-1.png)
+
 
 ### 🔹 1. Retrieval-Augmented Generation (RAG)
 - **Vector Store:** Used **ChromaDB** as the vector database to store news embeddings.
@@ -61,6 +62,5 @@ gcloud run deploy fakenews-chatbot `
   --max-instances 2 `
   --min-instances 1
 ```
- ![alt text](image.png)
+ ![alt text](assets\image.png)
 
- 
