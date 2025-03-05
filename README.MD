@@ -4,7 +4,7 @@ This project implements a **Fake News Detection Chatbot** using **Retrieval-Augm
 
 ## 🚀 Project Overview
 
-![demo image](assets\image-1.png)
+![demo image](assets/image-1.png)
 
 
 ### 🔹 1. Retrieval-Augmented Generation (RAG)
