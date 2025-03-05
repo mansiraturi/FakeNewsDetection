@@ -62,5 +62,5 @@ gcloud run deploy fakenews-chatbot `
   --max-instances 2 `
   --min-instances 1
 ```
- ![alt text](assets\image.png)
+ ![alt text](assets/image.png)
 
